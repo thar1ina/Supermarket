@@ -1,18 +1,18 @@
 body{
-    background-color: #27ae60;
+    background-color: green;
 }
 
 
 aside{
     float: left;
-    background: red;
+    background: white;
     width: 20%;
     padding: 2.5%;
     height: 100%;
     color: green;
-    border-right: 5px solid brown;
+
 }
 img{
-height: 30%;
-width: 12%;
+height: 40px;
+width: 120px;
 }
