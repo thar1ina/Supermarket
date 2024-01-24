@@ -1,0 +1,18 @@
+body{
+    background-color: #27ae60;
+}
+
+
+aside{
+    float: left;
+    background: red;
+    width: 20%;
+    padding: 2.5%;
+    height: 100%;
+    color: green;
+    border-right: 5px solid brown;
+}
+img{
+height: 30%;
+width: 12%;
+}
